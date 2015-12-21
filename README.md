@@ -16,7 +16,7 @@ The volume mounted at `/mnt` requires the follow subdirectories to be created by
 The Modulus base image is used like any other image:
 
 ```
-FROM: onmodulus/docker-alpine-base
+FROM: onmodulus/alpine-base
 
 # Customizations
 ```
